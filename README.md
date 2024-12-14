@@ -88,6 +88,6 @@ import exifread
 ## Special Thanks 
 IEEE Student Services
 
-Ravi Kumar and Fatma Shalaby @fatmashalabi for their incredible commitmend in seeing our team through the end despite many losses in team members and motivation
+Ravi Kumar and Amitav Chris Mostafa for their incredible commitmend in seeing our team through the end despite many losses in team members and motivation
 
 maedahi@iis.u-tokyo.ac.jp and @sekilabs incredible curation of Tutorial and Dataset on Github
